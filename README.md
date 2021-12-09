@@ -1,0 +1,2 @@
+# SimonGame
+Built using HTML, CSS, JavaScript, bootstrap and Jquery. This is a memory game where you have to follow the sequence and copy the sequence correctly to move on to the next level. The game starts with a KeyPress.The medium mode is pretty simple. When a coloured button flashes, you click the button. While going to the higher level, you will have several colors to remember in order. The game gets harder the longer you play!. You can add audio to playsound whenever a button is pressed or isflashed in your sounds folder to make the game more engaging.
