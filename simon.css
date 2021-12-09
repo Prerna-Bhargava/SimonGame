@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(8, 8, 59);
+    text-align: center;
+    color:rgb(245, 245, 153);
+
+}
+
+.game-title{
+    margin-top:2rem;
+    font-size: 3vw;
+}
+
+.label{
+    margin: 2rem 0 2rem 0;
+    font-size: 4vw;
+}
+
+#red{
+    background-color: red;
+    width:8rem;
+    height:8rem;
+    border-radius: 2.5rem;
+    margin:3% 3% 0 0;
+    border: 2px solid white;   
+}
+
+#green{
+    background-color: green;
+    width:8rem;
+    height:8rem;
+    border-radius: 2.5rem;
+    margin:3% 3% 0 0;
+    border: 2px solid white;  
+}
+
+#yellow{
+    background-color: yellow;
+    width:8rem;
+    height:8rem;
+    border-radius: 2.5rem;
+    margin:3% 3% 0 0;
+    border: 2px solid white; 
+}
+
+#blue{
+    background-color: blue;
+    width:8rem;
+    height:8rem;
+    border-radius: 2.5rem;
+    margin:3% 3% 0 0;
+    border: 2px solid white;
+}
+
+.game-over{
+    background-color: red;
+    opacity: 0.7;
+}
+
+.pressed{
+    box-shadow: 0 0 20px white;
+    background-color: gray;
+}
